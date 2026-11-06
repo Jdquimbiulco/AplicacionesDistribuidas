@@ -1,0 +1,9 @@
+services:
+  python-app:
+    image: python:3.11-alpine
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: python 01_Secuencial.py
+    # 02_Concurrencia.py
+    # 03_Hilos.py
