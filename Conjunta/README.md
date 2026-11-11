@@ -161,8 +161,6 @@ Esto asigna una TTY interactiva directa desde el inicio, permitiendo escribir en
 
 ## 6. Demostración y Pruebas de Funcionamiento
 
-Para reproducir la conversación exacta descrita en la sección 2 del PDF:
-
 1. **Desde Cliente 1 (Terminal 2):**  
    Escribe: `Hola a todos` y presiona Enter.
    - En Servidor aparece: `[CLIENTE 1]: Hola a todos`.
