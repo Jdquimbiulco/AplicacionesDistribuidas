@@ -1,0 +1,4 @@
+# Dependencias del proyecto
+# La implementación de chat distribuido con sockets y threading utiliza
+# exclusivamente la biblioteca estándar de Python (socket, threading, sys, os).
+# No se requieren librerías externas adicionales.
