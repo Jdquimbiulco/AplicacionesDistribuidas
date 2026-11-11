@@ -2,7 +2,7 @@
 
 **Asignatura:** Aplicaciones Distribuidas  
 **Evaluación:** Parcial 1 (Conjunta)  
-**Estudainte:** Juan Quimbiulco  
+**Estudiante:** Juan Quimbiulco  
 
 ---
 
